@@ -1,0 +1,10 @@
+/* This is a CSS comment */
+.my-element {
+    background-color: #F1F1F1;
+    color: #333;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #999;
+    text-align: center;
+    margin: 20px auto;
+}
